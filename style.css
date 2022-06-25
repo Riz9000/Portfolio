@@ -342,8 +342,9 @@ section .title::after{
 .skills-content .right .MySQL::before{
     width: 70%;
 }
+
 /* Styling of team */
-.teams .title::after{
+/* .teams .title::after{
     content: "who with me";
 }
 .teams .carousel .card{
@@ -402,7 +403,8 @@ section .title::after{
 .owl-dot.active,
 .owl-dot:hover{
     background: crimson!important;
-}
+} */
+
 /* Styling of contact */
 .contact .title::after{
     content: "get in touch";
